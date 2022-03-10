@@ -1,2 +1,2 @@
-# Desafios 20, 20 e 20_1
- Desafios Senai FPOO Python
+# Desafios Senai FPOO Python
+ Desafios aulas 20, 21 e 21_1
